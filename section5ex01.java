@@ -15,6 +15,8 @@ public class section5ex01 {
         else {
             System.out.println("positivo");
         }
+
+        sc.close();
     }
 
 }
