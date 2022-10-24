@@ -6,7 +6,7 @@ Considere o valor de π = 3.14159
 
 import java.util.Scanner;
 
-public class ex02 {
+public class section4ex02 {
     public static void main(String[] args){
 
         System.out.println("Digite a area:");

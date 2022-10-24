@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ex05 {
+public class section4ex05 {
 
     public static void main(String[] args){
 

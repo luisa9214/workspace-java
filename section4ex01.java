@@ -3,7 +3,7 @@ mensagem explicativa*/
 
 import java.util.Scanner;
 
-public class ex01 {
+public class section4ex01 {
 
     public static void main(String[] args){
 

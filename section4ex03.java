@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class ex03 {
+public class section4ex03 {
 
     public static void main(String[] args){
         System.out.println("Digite 4 valores:");
