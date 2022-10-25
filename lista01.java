@@ -16,7 +16,7 @@ public class lista01 {
         System.out.println("Digite a nota da matéria D:");
         d = sc.nextInt();
         double media = (a + b + c + d) /4;
-        System.out.println("Aluno: " + aluno);
-        System.out.printf("Média: " + media);
+        System.out.printf("Aluno: %s Média: %.2f", aluno, media);
+
     }
 }
